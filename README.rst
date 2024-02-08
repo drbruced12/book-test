@@ -1,6 +1,11 @@
 About The Book
 ===============
 
+.. image:: https://github.com/drbruced12/book-test/actions/workflows/publish-docs.yml/badge.svg
+  :align: center
+  :alt: deployment status button
+  :target: https://github.com/drbruced12/book-test/actions/
+
 Source for *Private 5G: A Systems Approach* is available
 on GitHub under
 terms of the `Creative Commons (CC BY-NC-ND 4.0)
