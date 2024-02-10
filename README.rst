@@ -2,7 +2,7 @@ About The Book
 ===============
 
 .. image:: https://github.com/drbruced12/book-test/actions/workflows/publish-docs.yml/badge.svg
-  :align: center
+  :align: left
   :alt: deployment status button
   :target: https://github.com/drbruced12/book-test/actions/
 
