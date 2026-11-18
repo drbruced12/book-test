@@ -1,5 +1,6 @@
-.. image:: SystemsApproachLogoURL.png
+.. image:: _static/SAlogoBlue.png
    :width: 300px
+   :alt: A logo with a stylized bridge above the words Systems Approach
    :align: center
    :target: https://systemsapproach.org
 
