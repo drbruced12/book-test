@@ -1,4 +1,4 @@
-.. image:: _static/SAlogoBlue.png
+.. image:: _static/SALogoBlue.png
    :width: 300px
    :alt: A logo with a stylized bridge above the words Systems Approach
    :align: center
